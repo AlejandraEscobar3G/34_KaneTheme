@@ -24,8 +24,29 @@ li>a{
 .m0{
 	margin: 0;
 }
+.pb-3{
+	padding-bottom: 3%;
+}
+.pt-4{
+	padding-top: 4%;
+}
+		/*textos*/
+.text-white{
+	color: white;
+}
+.text-black{
+	color: #463F44;
+}
 		/*section 1*/
 #fondo1{
 	background-image: url("../img/carousel-bg.jpg");
 	background-size: 100% 100%;
+}
+h1, h2{
+	font-family: 'Roboto:300', sans-serif;
+}
+		/*section 2 escoge tu paleta*/
+hr{
+	width: 20%;
+	border: 1px solid #463F44;
 }
