@@ -2,7 +2,7 @@
 nav, .section{
 	background-color: #04AD69;
 }
-.icon-bar{
+.icon-bar, .fondo_blanco{
 	background-color: white;
 }
 .navbar-toggle{
@@ -36,6 +36,9 @@ li>a{
 .mt-4{
 	margin-top: 4%;
 }
+.m-t-b{
+	margin: 15% 0;
+}
 .pb-3{
 	padding-bottom: 3%;
 }
@@ -57,7 +60,7 @@ li>a{
 	background-image: url("../img/carousel-bg.jpg");
 	background-size: 100% 100%;
 }
-h1, h2, p{
+h1, h2, p, h4{
 	font-family: 'Roboto:300', sans-serif;
 }
 		/*section 2 escoge tu paleta*/
@@ -148,6 +151,7 @@ hr{
 .borde_rayado{
 	border-bottom: 1px dashed #463F44;
 }
-.social{
-	font-size: 25px;
+		/*section mejor precio*/
+.paquetes{
+	border: 1px solid #04AD69;
 }
