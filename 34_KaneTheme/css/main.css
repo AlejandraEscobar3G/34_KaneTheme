@@ -1,5 +1,5 @@
 		/*header*/
-nav, .section{
+nav, .section, .footer{
 	background-color: #04AD69;
 }
 .icon-bar, .fondo_blanco{
@@ -165,4 +165,11 @@ blockquote{
 #fondo_sociales{
 	background-image: url("../img/img-divider-img.jpg");
 	background-size: 100% 100%;
+}
+		/*footer*/
+.inline{
+	display: inline-block;
+}
+li.inline{
+	padding: 1%;
 }
