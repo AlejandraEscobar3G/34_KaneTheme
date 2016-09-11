@@ -155,3 +155,9 @@ hr{
 .paquetes{
 	border: 1px solid #04AD69;
 }
+		/*Section opiniones de clientes*/
+blockquote{
+	width: 50%;
+	display: block;
+	margin: auto;
+}
