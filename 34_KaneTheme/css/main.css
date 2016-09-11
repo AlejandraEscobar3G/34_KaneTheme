@@ -161,3 +161,8 @@ blockquote{
 	display: block;
 	margin: auto;
 }
+		/*Section de las redes sociales*/
+#fondo_sociales{
+	background-image: url("../img/img-divider-img.jpg");
+	background-size: 100% 100%;
+}

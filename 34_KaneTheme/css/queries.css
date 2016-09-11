@@ -17,6 +17,9 @@
 	h4{
 		font-size: 15px;
 	}
+	.social{
+		font-size: 35px;
+	}
 }
 
 /* Small devices (tablets, 768px and up) */
@@ -39,6 +42,9 @@
 	h4{
 		font-size: 24px;
 	}
+	.social{
+		font-size: 80px;
+	}
 }
 
 /* Medium devices (desktops, 992px and up) */
@@ -60,6 +66,9 @@
 	}
 	h4{
 		font-size: 28px;
+	}
+	.social{
+		font-size: 90px;
 	}
 }
 
