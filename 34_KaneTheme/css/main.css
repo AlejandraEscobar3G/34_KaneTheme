@@ -156,7 +156,8 @@ hr{
 }
 		/*section mejor precio*/
 .paquetes{
-	border: 1px solid #04AD69;
+	border: 2px solid #04AD69;
+	margin-top: 10%;
 }
 		/*Section opiniones de clientes*/
 blockquote{
@@ -175,4 +176,26 @@ blockquote{
 }
 li.inline{
 	padding: 1%;
+}
+		/*hover*/
+button.fondo_azul:hover{
+	color: white;
+	background-color:#AE673A; 
+}
+div.fondo-hover:hover{
+	background-color: #20725A;
+
+}
+div.fondo-hover img:hover{
+	background-color: #AE673A;
+	/*codigo para rotar una imagen en 1 segundo*/
+	-ms-transform: rotate(25deg); /* IE 9 */
+    -webkit-transform: rotate(25deg); /* Chrome, Safari, Opera */
+    transform: rotate(25deg);
+    -webkit-transition: 1s; /* Chrome, Safari, Opera */
+    transition: 1s;
+}
+div.paquetes:hover{
+	border: 2px solid #845E44;
+	margin-top: 2% !important;
 }
