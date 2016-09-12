@@ -11,6 +11,9 @@ nav, .section, .footer{
 li>a{
 	color: white;
 }
+a{
+	text-decoration: none !important;
+}
 		/*margin y padding*/
 .mg-left{
 	margin-left: 10%;
