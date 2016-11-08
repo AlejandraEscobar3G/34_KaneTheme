@@ -1,6 +1,3 @@
-var boxes = document.getElementsByClassName("form-control");
-var i;
-
 function validateForm(){
 	validateName();
 	validateEmail();
